@@ -2,7 +2,6 @@
     <string name="app_name">Android.ex3</string>
     <string name="image">imageContentDescription</string>
 
-    <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="show_album_button">Load Sexy Album</string>
 </resources>
